@@ -27,7 +27,11 @@
 .App-link {
   color: #61dafb;
 }
-
+h1 {
+  font-family: 'henny Penny';
+  font-size: 70px;
+  color: #41b3d2;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
